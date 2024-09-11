@@ -31,9 +31,11 @@
 
 ### Запуск отдельных файлов:
 Вы можете запустить тесты по отдельным файлам:
-`pytest test_auth.py
+```
+pytest test_auth.py
 pytest test_pass_recovery.py
-pytest test_registration.py`
+pytest test_registration.py
+```
 
 ## 5. Инструменты для тестирования
 
